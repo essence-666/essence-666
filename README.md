@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @essence-666
-- 👀 I’m interested in web
-- 🌱 I’m currently learning c# and ASP.NET =D
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning c# and ASP.NET 
 - 💞️ I’m looking to collaborate on any c# projects
 - 📫 How to reach me [link](https://essence-666.github.io/resume/)
 
