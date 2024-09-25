@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @essence-666
 - 👀 I’m interested in web development
-- 🌱 I’m currently python
+- 🌱 I’m currently learn python
 - 💞️ I’m looking to collaborate on any python projects
 - 📫 How to reach me [link](https://essence-666.github.io/resume/)
 
